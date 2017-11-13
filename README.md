@@ -1,2 +1,1 @@
-"# Coldwater-cool" 
-"# Coldwater-cool" 
+This project is about cold water which is a cool stuff.
